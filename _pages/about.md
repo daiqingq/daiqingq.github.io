@@ -26,9 +26,10 @@ I am currently a PhD student at the <a href="https://www.virginia.edu/">Universi
 I also spend time at <a href="https://www.amazon.science/">Amazon Search Science & AI</a> and <a href="https://research.adobe.com/">Adobe Research</a> as a Research Scientist Intern.
 </p>
 
-##### **Experience**
+##### Experience
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+
+<div style="display: flex; align-items: center; margin-bottom: 20px; margin-top: 20px;">
   <img src="assets/img/adobe.png" alt="Adobe Logo" style="width: 50px; margin-right: 15px;">
   <div style="text-align: left;">
     Adobe Research, Vision and Language Lab
