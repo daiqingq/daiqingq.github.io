@@ -41,7 +41,7 @@ I also spend time at <a href="https://www.amazon.science/">Amazon Search Science
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="assets/img/amazon2.png" alt="Amazon Logo" style="width: 50px; margin-right: 15px;">
   <div style="text-align: left;">
-    Amazon Search
+    Amazon Search, Search M5 Team
     <br>
     2023
   </div>
