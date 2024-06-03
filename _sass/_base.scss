@@ -49,6 +49,7 @@ table.table a {
 }
 
 .table-dark {
+  color: #000;
   background-color: transparent;
   &.table-bordered {
     border: 1px solid var(--global-divider-color) !important;
@@ -166,11 +167,13 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    font-weight: 300 !important;
   }
 
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
+
 }
 
 // Citation
@@ -188,7 +191,7 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Roboto", sans-serif;
 
     p {
       display: inline-block;

@@ -1,25 +1,48 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>University of virginia</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>1965 Ivy Rd, Charlottesville, VA 22903</p>
+    <p>Email: daiqing.qi [at] virginia.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
+# projects: true # includes projects
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>
+I am currently a PhD student at the <a href="https://www.virginia.edu/">University of Virginia</a>, advised by <a href="http://sheng-li.org/">Dr. Sheng Li</a>. Prior to that, I received my bachelor's degree in Electronic Engineering from <a href="https://www.seu.edu.cn/english/">Southeast University</a>. I am interested in multimodal large language models, image generation.
+</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p>
+I also spend time at <a href="https://www.amazon.science/">Amazon Search Science & AI</a> and <a href="https://research.adobe.com/">Adobe Research</a> as a Research Scientist Intern.
+</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+##### **Experience**
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="assets/img/adobe.png" alt="Adobe Logo" style="width: 50px; margin-right: 15px;">
+  <div style="text-align: left;">
+    Adobe Research, Vision and Language Lab
+    <br>
+    2024
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="assets/img/amazon2.png" alt="Amazon Logo" style="width: 50px; margin-right: 15px;">
+  <div style="text-align: left;">
+    Amazon Search
+    <br>
+    2023
+  </div>
+</div>
+
