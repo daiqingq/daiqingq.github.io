@@ -8,7 +8,7 @@
 
 "ECCV":
   url: /
-  color: "#009f36" # green
+  color: "009f36"
 
 "TKDD":
   url: /
