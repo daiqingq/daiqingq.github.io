@@ -1,6 +1,6 @@
 "ICLR":
   url: /
-  color: "#00369f" # dart blue
+  color: "#b509ac" # dart blue
 
 "TMLR":
   url: /
@@ -8,8 +8,8 @@
 
 "ECCV":
   url: /
-  color: "009f36"
+  color: "#DC143C"
 
 "TKDD":
   url: /
-  color: "#FF6F00" # orange
+  color: "#b509ac" 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on retrieval-augmented Multimodal Large language Models is available on <a href="">arXiv</a>.
+One paper on retrieval-augmented Multimodal Large language Models is available on <a href="https://arxiv.org/abs/2406.10839">arXiv</a>.
