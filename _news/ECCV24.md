@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by <a href="">European Conference on Computer Vision (ECCV)</a>.
+One paper is accepted by <a href="">European Conference on Computer Vision (ECCV 2024)</a>.
 
