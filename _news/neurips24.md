@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We are organizing the first workshop on <a href="">Large Foundation Models for Educational Assessment (FM-EduAssess)</a> at <a href="">Conference on Neural Information Processing Systems (NeurIPS 2024)</a>.
+We are organizing the first workshop on <a href="https://neurips2024edu.github.io/">Large Foundation Models for Educational Assessment (FM-EduAssess)</a> at <a href="">Conference on Neural Information Processing Systems (NeurIPS 2024)</a>.
