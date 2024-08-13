@@ -16,6 +16,7 @@ DS 4002: Data Science Project Course (Spring 2023)
 ### Academic Services
 
 **Program Committee Member / Reviewer**:
+ICLR 2025,
 NeurIPS 2024,
 ICML 2024,
 ICLR 2024,
