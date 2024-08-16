@@ -9,7 +9,7 @@ nav_order: 6
 
 <!-- ### Articles -->
 
-[Water Can See - Richard Schwartz Review](https://www.math.brown.edu/reschwar/Stories/water.html) ,"说到底，这是一个关于孤独的故事"
+[Water Can See - Richard Schwartz Review](https://www.math.brown.edu/reschwar/Stories/water.html), "说到底，这是一个关于孤独的故事"
 
 [The blue-eyed islanders puzzle](https://xkcd.com/blue_eyes.html), Discussion from Terence Tao: [link](https://terrytao.wordpress.com/2008/02/05/the-blue-eyed-islanders-puzzle/) 
 
