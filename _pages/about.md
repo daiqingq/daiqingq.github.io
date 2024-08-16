@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1965 Ivy Rd, Charlottesville, VA 22903</p>
     <p>Email: daiqing.qi [at] virginia.edu</p>
 
 news: true # includes a list of news items
