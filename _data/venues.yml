@@ -1,19 +1,19 @@
 "ICLR":
   url: /
-  color: "#5190FE" # dart blue
+  color: "#000000" # dart blue
 
 "TMLR":
   url: /
-  color: "#5190FE" # purple
+  color: "#000000" # purple
 
 "Under Review":
   url: /
-  color: "#5190FE" # purple
+  color: "#000000" # purple
 
 "ECCV":
   url: /
-  color: "#5190FE"
+  color: "#000000"
 
 "TKDD":
   url: /
-  color: "#5190FE" 
+  color: "#000000" 
